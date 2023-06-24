@@ -1,0 +1,7 @@
+{
+  "name": "LoveWithoutBorders",
+  "version": "1.0.0",
+  "dependencies": {
+    "imask": "^6.6.1"
+  }
+}
